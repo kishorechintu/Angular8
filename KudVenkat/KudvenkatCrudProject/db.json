@@ -35,6 +35,20 @@
       "photoPath": "assets/images/emp1.png",
       "password": null,
       "confirmpassword": null
+    },
+    {
+      "id": 4,
+      "name": "Soukar",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "phoneNumber": null,
+      "email": "Soukar@gmail.com",
+      "dateOfBirth": "2017-05-16T18:30:00.000Z",
+      "department": "2",
+      "isActive": true,
+      "photoPath": "assets/images/emp1.png",
+      "password": null,
+      "confirmpassword": null
     }
   ]
 }
